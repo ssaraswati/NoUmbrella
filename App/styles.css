@@ -6,17 +6,31 @@
     min-height: 40em;
 
 }
+
+
 .umbrella-icon {
     height: 40em;
     width: 50%;
     margin-top: 3em;
     margin-bottom: 10em;
 }
-.title {
-    margin-top: 5em;
-}a {
+a {
     color: black;
 }
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2em;
+    width: 100%;
+    overflow: hidden;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 .container {
     margin-right: auto;
     margin-left: auto;
