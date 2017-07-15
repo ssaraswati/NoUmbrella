@@ -1,8 +1,0 @@
-﻿{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "",
-    "AzureWebJobsDashboard": "",
-    "DarkSkyApiSecret": "572cfba9548b4d7ed57f862f1939a40b"
-  }
-}
