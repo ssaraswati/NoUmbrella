@@ -72,7 +72,7 @@ namespace NoUmbrella
 
         public static float Parselongitude(string locationstring)
         {
-            return float.Parse(locationstring.Split(',')[0]);
+            return float.Parse(locationstring.Split(',')[1]);
         }
     }
 }
